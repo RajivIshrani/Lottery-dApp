@@ -14,7 +14,7 @@ error Raffle__SendMoreToEnterRaffle();
 error Raffle__RaffleNotOpen();
 
 /**@title A sample Raffle Contract
- * @author Patrick Collins
+ * @author Rajiv Ishrani
  * @notice This contract is for creating a sample raffle contract
  * @dev This implements the Chainlink VRF Version 2
  */
